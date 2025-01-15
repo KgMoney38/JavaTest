@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //Kody Graham, OOP Java, 4:05-5:20 T/TH
-public class JavaTest
+public class Main
 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
